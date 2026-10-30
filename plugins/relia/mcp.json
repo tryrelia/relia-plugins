@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "relia": {
+      "url": "https://devreliaapi.tryrelia.com/mcp"
+    }
+  }
+}

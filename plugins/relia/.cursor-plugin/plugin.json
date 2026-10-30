@@ -1,0 +1,15 @@
+{
+  "name": "relia",
+  "displayName": "Relia",
+  "version": "1.0.0",
+  "description": "Know what broke in production, who it hit and how to fix it, without leaving Cursor. Relia's incidents, evidence and fix plans in your editor, and setup of Relia in your repository.",
+  "author": {
+    "name": "Relia",
+    "email": "relia@alaknandainfoplus.com"
+  },
+  "homepage": "https://tryrelia.com/mcp",
+  "repository": "https://github.com/tryrelia/relia-plugins",
+  "license": "MIT",
+  "keywords": ["observability", "monitoring", "incidents", "production", "errors", "apm", "mcp"],
+  "logo": "assets/logo.svg"
+}
